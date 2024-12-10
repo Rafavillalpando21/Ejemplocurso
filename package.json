@@ -17,6 +17,7 @@
         "@whiskeysockets/baileys": "6.5.0",
         "cache-manager": "^5.2.4",
         "dotenv": "^16.4.7",
+        "express": "^4.21.2",
         "googleapis": "^144.0.0",
         "mongodb": "^6.11.0",
         "mongoose": "^8.8.4",
