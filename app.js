@@ -28,3 +28,7 @@ const main = async () => {
 
 main();
 
+const PORT = process.env.PORT || 3000; // Usa el puerto 3000 por defecto
+app.listen(PORT, () => {
+    console.log(`App listening on port ${PORT}`);
+});
