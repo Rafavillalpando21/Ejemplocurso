@@ -1,0 +1,39 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216623572760@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA887047B0228B1F554',
+    participant: undefined
+  },
+  messageTimestamp: 1734058442,
+  pushName: 'Millaray',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '5216623572760'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d42a8545-b06c-4869-b527-7d87df8df92c',
+  keyword: 'key_10352cd4-22f8-497c-98ee-0be900aea2d2',
+  answer: 'Saludos desde cloud',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '336072ba40f13120769577b45a4ed8cb'
+}

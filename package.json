@@ -28,6 +28,6 @@
     },
     "devDependencies": {
         "eslint": "^8.52.0",
-        "eslint-plugin-bot-whatsapp": "latest"
+        "eslint-plugin-bot-whatsapp": "^1.0.0"
     }
 }
